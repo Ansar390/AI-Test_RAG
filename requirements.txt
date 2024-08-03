@@ -1,0 +1,7 @@
+langchain-huggingface 
+pinecone-client 
+langchain
+langchain_groq 
+langchain-core 
+langchain_community 
+langchain_pinecone
